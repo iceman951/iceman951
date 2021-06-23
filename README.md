@@ -2,11 +2,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently an intern at Next-Hop Co., Ltd.
-- 🌱 I’m currently learning Express.js
-- 👯 I’m looking to collaborate on Express.js
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🌱 I’m currently learning Flutter
+- 👯 I’m looking to collaborate on Flutter
+- 🤔 I’m looking for help with UX/UI
+- 💬 Ask me about Anything
+- 📫 How to reach me: k.vorrapong@gmail.com

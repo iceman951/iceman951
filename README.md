@@ -1,8 +1,39 @@
-### Hi there 👋
+# ❄️ _Hi, I'm ICE
 
-Here are some ideas to get you started:
+Full Stack Developer at BAAC.
 
-- 🌱 I’m currently learning Rust
-- 🤔 I’m looking for help with UX/UI forever
-- 💬 Ask me about anything
-- 📫 How to reach me: k.vorrapong@gmail.com
+## 📑 _Familiar with_
+
+- **_Javascript/Typescript_**
+
+  - 🐱 Elysia (with 💖)
+  - 🦊 Nest
+  - ⭐ Express
+ 
+  - ⚛️ React
+  - ⭐ Vue
+  - ⭐ Angular
+
+- **_Rust_**
+
+  - 🦀 Actix
+
+- **_Database_**
+
+  - 🐘 PostgreSQL
+  - 🍃 MongoDB
+  - 🗄️ SQL Server
+  - 🗄️ OracleDB
+
+- **_DevSecOps Tools_**
+
+  - 🐳 Docker
+  - ⛵ Kubernetes
+  - ☁️ Openshift
+  - 🐙 ArgoCD
+  - ⭐ Helm
+  - ⭐ Kustomize
+  - ⭐ Jenkins
+  - ⭐ Sonarqube
+  - ⭐ Trivy
+  - ⭐ Ansible

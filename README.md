@@ -6,9 +6,9 @@ Full Stack Developer at BAAC.
 
 - **_Javascript/Typescript_**
 
-  - 🐱 Elysia (with 💖)
-  - 🦊 Nest
-  - ⭐ Express
+  - 🦊 ElysiaJS (with 💖)
+  - 🐱 NestJS
+  - ⭐ ExpressJS
  
   - ⚛️ React
   - ⭐ Vue

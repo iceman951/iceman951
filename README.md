@@ -1,39 +1,9 @@
-# ❄️ _Hi, I'm ICE
+Hey there! I'm ICE ❄️ (Vorrapong Kertnat), a Computer Engineering grad and Full Stack Developer at BAAC. 💻
 
-Full Stack Developer at BAAC.
-
-## 📑 _Familiar with_
-
-- **_Javascript/Typescript_**
-
-  - 🦊 ElysiaJS (with 💖)
-  - 🐱 NestJS
-  - ⭐ ExpressJS
- 
-  - ⚛️ React
-  - ⭐ Vue
-  - ⭐ Angular
-
-- **_Rust_**
-
-  - 🦀 Actix
-
-- **_Database_**
-
-  - 🐘 PostgreSQL
-  - 🍃 MongoDB
-  - 🗄️ SQL Server
-  - 🗄️ OracleDB
-
-- **_DevSecOps Tools_**
-
-  - 🐳 Docker
-  - ⛵ Kubernetes
-  - ☁️ Openshift
-  - 🐙 ArgoCD
-  - ⭐ Helm
-  - ⭐ Kustomize
-  - ⭐ Jenkins
-  - ⭐ Sonarqube
-  - ⭐ Trivy
-  - ⭐ Ansible
+My Toolkit 🛠️
+Languages: TypeScript ⭐
+Backend Development: ElysiaJS 🦊, NestJS 🐱, ExpressJS 🚀
+Frontend Development: React ⚛️, Vue ⭐
+Databases: PostgreSQL 🐘, MongoDB 🍃, SQL Server 🗄️, OracleDB 🟠
+DevSecOps: Docker 🐳, Kubernetes ☸️, Openshift ☁️, ArgoCD 🚢, Helm ⎈, Kustomize 🧰, Jenkins ⚙️, Sonarqube 🛡️, Trivy 🔍, Ansible 🅰️
+Let's build something awesome together! ✨
